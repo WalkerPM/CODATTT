@@ -1,10 +1,10 @@
 #/usr/bin/python3
 
-print("Consistently write three numbers")
-num = [0,0,0]
-num[0] = int(input("Number 1: "))
-num[1] = int(input("Number 2: "))
-num[2] = int(input("Number 3: ")) #DON"T F**KING REMIND TO PUT TWO ")" !!!
+num = int(input("Write a number: "))
 
-print(max(num))
-print("Done")
+if num % 3 != 0:
+	print( num % 3 )
+else:
+	print("Num is multiple of three")
+
+print("Done!")
