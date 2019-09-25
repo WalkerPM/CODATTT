@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 
 number = int(input("Write a number greater 1000 and lower 10000\n"))
 out = int(0)

@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 
 number = int(input("Please, write a number for test: "))  #Retard, dont forget put TWO ")" in this line!
 

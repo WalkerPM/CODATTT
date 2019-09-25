@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 
 print("Consistently write three numbers")
 num = [0,0,0]
